@@ -2,3 +2,11 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+*#
+*.odt
+*.pdf
+*.ods
+*.tar*
+.LABs/
+.TMP/
