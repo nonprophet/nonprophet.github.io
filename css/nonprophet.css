@@ -1,4 +1,4 @@
-{
+*{
   box-sizing: border-box;
 }
 
@@ -22,9 +22,9 @@ background-color: whitesmoke
 }
 
 /* --- ############# xxx ############# --- */
-.color-main{color: #;}
-.color-alt{color: #;}
-.color-bg{color: #;}
+.color-main{color: #000;}
+.color-alt{color: #fff;}
+.color-bg{color: #666;}
 /* --- ############# xxx ############# --- */
 
 
